@@ -1,0 +1,21 @@
+main{
+    margin: 0;
+    /* max-width: 1300px; */
+    align-items: column;
+    /* @media only screen and (min-width: 1300px) */
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+}
+
+@media only screen and (min-width: 1300px){
+    
+}
+
